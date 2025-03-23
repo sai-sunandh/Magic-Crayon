@@ -1,4 +1,4 @@
-#using opncv
+#using opencv
 import cv2
 import numpy as np
 
